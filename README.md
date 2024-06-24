@@ -4,7 +4,6 @@
 
 <div align="left">
 
-#  About Me
 ![Profile Banner](https://images.unsplash.com/photo-1456154875099-97a3a56074d3?q=80&w=1400&h=400&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 ![](https://github-readme-stats.vercel.app/api?username=olmokruc&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -13,7 +12,7 @@
 
 </div>
 
-###
+#  About Me
 
 <img align="right" height="150" src="https://media1.tenor.com/m/jvPlUQim6R4AAAAC/berserk-guts.gif"  />
 
