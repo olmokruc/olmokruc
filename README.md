@@ -3,8 +3,11 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=olmokruc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=olmokruc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+![](https://github-readme-stats.vercel.app/api?username=olmokruc&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=olmokruc&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=olmokruc&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 </div>
 
 ###
@@ -75,3 +78,16 @@
 </div>
 
 ###
+
+
+
+
+
+
+
+
+
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=olmokruc&theme=radical&no-frame=false&no-bg=true&margin-w=4)
