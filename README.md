@@ -10,6 +10,9 @@
 
 </div>
 
+#  About Me
+![Profile Banner](https://images.unsplash.com/photo-1456154875099-97a3a56074d3?q=80&w=1400&h=400&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
 ###
 
 <img align="right" height="150" src="https://media1.tenor.com/m/jvPlUQim6R4AAAAC/berserk-guts.gif"  />
@@ -78,27 +81,6 @@
 </div>
 
 ###
-
-
-
-<foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-
-<style>
-  main{
-    backgroud-url:url(https://steamuserimages-a.akamaihd.net/ugc/1677016275102130652/98AD2874B0A926200160F8DE2A76AD39C4CF4887/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true);
-  }
-</style>
-
-      <!-- your HTML -->
-
-    </div>
-  </foreignObject>
-
-
-
-
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=olmokruc&theme=radical&no-frame=false&no-bg=true&margin-w=4)
