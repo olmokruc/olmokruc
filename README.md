@@ -82,7 +82,11 @@
 
 
 
-
+<style>
+  main{
+    backgroud-url:url(https://steamuserimages-a.akamaihd.net/ugc/1677016275102130652/98AD2874B0A926200160F8DE2A76AD39C4CF4887/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true);
+  }
+</style>
 
 
 
